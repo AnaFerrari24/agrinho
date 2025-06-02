@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Natureza Viva</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="ceu">
+        <div class="sol"></div>
+        <div class="nuvem nuvem1"></div>
+        <div class="nuvem nuvem2"></div>
+        <h1>Preserve o Meio Ambiente</h1>
+
+        <!-- Imagem abaixo do título -->
+        <div class="imagem-titulo">
+            <img src="https://th.bing.com/th/id/OIP.mkMkW9NSDL6DxkpYj6E5CgHaHa?r=0&w=1100&h=1100&rs=1&pid=ImgDetMain" alt="Planeta Terra">
+        </div>
+    </div>
+
+    <div class="grama"></div>
+    <div class="lago"></div>
+
+    <!-- Árvores -->
+    <div class="arvore" style="left: 15%;"></div>
+    <div class="arvore" style="left: 30%;"></div>
+    <div class="arvore" style="left: 70%;"></div>
+    <div class="arvore" style="left: 85%;"></div>
+
+    <!-- Seção de Texto e Imagem -->
+    <section class="conteudo">
+        <div class="texto">
+            <h2>Por que preservar o meio ambiente?</h2>
+            <p>
+                O meio ambiente é essencial para a vida no planeta. Preservar a natureza é garantir ar puro, água limpa,
+                alimentos saudáveis e qualidade de vida para todas as espécies, incluindo nós, seres humanos.
+            </p>
+            <p>
+                A sustentabilidade depende das nossas atitudes no dia a dia. Pequenas ações, como economizar água, reciclar,
+                plantar árvores e reduzir o consumo de plástico, fazem uma enorme diferença.
+            </p>
+        </div>
+        <div class="imagem">
+            <img src="https://th.bing.com/th/id/OIP.KPIozZCdp0_SYytVSWeIkgHaFj?r=0&rs=1&pid=ImgDetMain" alt="Meio Ambiente">
+        </div>
+    </section>
+</body>
+</html>
